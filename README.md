@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Computer Engineering at the Memorial University of Newfoundland
 - 💞️ I’m looking to collaborate on anything if the project seems promising
 - 📫 How to reach me:
-- Russell Corbett
-- St. John's, Newfoundland, Canada
 - Email: rjcorbett@mun.ca
 - Phone: 1(709)746-6644
 
